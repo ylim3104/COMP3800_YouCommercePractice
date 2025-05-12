@@ -1,0 +1,44 @@
+0,
+permission model
+https://us-east-1.console.aws.amazon.com/bedrock/home?region=us-east-1#/model-catalog
+stack
+https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://aws-ml-blog.s3.us-east-1.amazonaws.com/artifacts/ml-17018/infra_template.yaml
+
+1, run MSI installer on command line C:\>
+msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+
+2, Check Installation C:\>
+aws --version
+
+3, configure aws with AWS access keyID, secret access key and set Default region name as us-east-1
+aws configure
+
+https://universe.roboflow.com/car-damage-kadad/car-damage-images/
+4, upload files
+aws s3 cp /path/to/source/folder/train/ s3://automotive-damage-processing-sources3bucket-tsamannwsrol  --recursive --exclude "*" --include "*.jpg" --include "*.png"
+aws s3 cp /path/to/source/folder/valid/ s3://automotive-damage-processing-sources3bucket-tsamannwsrol --recursive --exclude "*" --include "*.jpg" --include "*.png"
+
+aws s3 cp C:/BCIT/COMP_3800_Project_Term/car_damage_model/train/ s3://automotive-damage-process-sources3bucket-1zsh1r8uew0n --recursive --exclude "*" --include "*.jpg" --include "*.png"
+aws s3 cp C:/BCIT/COMP_3800_Project_Term/car_damage_model/valid/ s3://automotive-damage-process-sources3bucket-1zsh1r8uew0n --recursive --exclude "*" --include "*.jpg" --include "*.png"
+
+6, retrieve id
+aws ssm get-parameters --names /car-repair/security-group
+aws ssm get-parameters --names /car-repair/subnet
+
+7, using id to run
+aws ecs run-task --task-definition ingestion-definition --cluster damage-ecs-cluster --network-configuration '{ "awsvpcConfiguration": { "assignPublicIp":"ENABLED", "securityGroups": ["security-group-id"], "subnets": ["subnet-id"]}}' --launch-type="FARGATE"
+aws ecs run-task --task-definition ingestion-definition --cluster damage-ecs-cluster --network-configuration '{ "awsvpcConfiguration": { "assignPublicIp":"ENABLED", "securityGroups": ["sg-0f44a7fb61981bad0"], "subnets": ["subnet-06fc9831de59808e4"]}}' --launch-type="FARGATE"
+
+aws ecs run-task --cluster damage-ecs-cluster --task-definition ingestion-definition --launch-type FARGATE --network-configuration '{"awsvpcConfiguration": {"subnets": ["subnet-0b582948e4291b165"],"securityGroups": ["sg-03ec5510aaeecd6b4"],"assignPublicIp": "ENABLED"}}'
+
+aws ecs run-task ^
+  --cluster damage-ecs-cluster ^
+  --task-definition ingestion-definition ^
+  --launch-type FARGATE ^
+  --network-configuration "{""awsvpcConfiguration"":{""subnets"":[""subnet-0756affab958ee70e""],""securityGroups"":[""sg-0490cd0328806fd31""],""assignPublicIp"":""ENABLED""}}"
+
+8, check if ECS tasks are complete
+https://us-east-1.console.aws.amazon.com/ecs/v2/clusters?region=us-east-1
+
+9, test out
+https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/resources?stackId=arn%3Aaws%3Acloudformation%3Aus-east-1%3A566105751318%3Astack%2Fautomotive-damage-processing%2F91b22030-27b1-11f0-ba6f-0affcf737c29&filteringText=&filteringStatus=active&viewNested=true
