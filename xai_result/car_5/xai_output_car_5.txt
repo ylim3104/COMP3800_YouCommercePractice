@@ -1,0 +1,50 @@
+### Car Damage Assessment Report
+
+#### Damaged Parts
+1. **Hood**
+2. **Front Bumper**
+3. **Grille**
+4. **Front Left Headlight**
+
+#### Type of Damage
+1. **Hood**
+   - **Nature**: Severe deformation, large dent
+2. **Front Bumper**
+   - **Nature**: Crack, deformation
+3. **Grille**
+   - **Nature**: Missing or severely damaged
+4. **Front Left Headlight**
+   - **Nature**: Cracked, potential internal damage
+
+#### Estimated Repair Time
+1. **Hood**
+   - **Time**: 6-8 hours (due to severe deformation, likely requiring replacement)
+2. **Front Bumper**
+   - **Time**: 4-6 hours (repairing cracks and deformation)
+3. **Grille**
+   - **Time**: 1-2 hours (assuming replacement)
+4. **Front Left Headlight**
+   - **Time**: 1-2 hours (for replacement)
+
+#### Estimated Cost (CAD)
+1. **Hood**
+   - **Cost**: $800-$1200 (replacement cost)
+2. **Front Bumper**
+   - **Cost**: $400-$700 (repairing cracks and deformation)
+3. **Grille**
+   - **Cost**: $100-$200 (replacement cost)
+4. **Front Left Headlight**
+   - **Cost**: $200-$400 (replacement cost)
+
+#### Recommended Action
+1. **Hood**
+   - **Action**: Replace due to severe deformation which would be costly and time-consuming to repair effectively.
+2. **Front Bumper**
+   - **Action**: Repair if the cracks are not too extensive; otherwise, consider replacement. Given the visible damage, repair might be more cost-effective.
+3. **Grille**
+   - **Action**: Replace as it appears to be missing or severely damaged.
+4. **Front Left Headlight**
+   - **Action**: Replace due to visible cracks which could affect functionality.
+
+### Summary
+The car has sustained significant damage to the front end, particularly to the hood, front bumper, grille, and front left headlight. The hood's severe deformation suggests replacement is the most practical solution. The front bumper might be repairable depending on the extent of the cracks. Both the grille and headlight should be replaced for functional and aesthetic reasons. The total estimated repair time ranges from 12-18 hours, and the total cost could be between $1500 and $2500 CAD.
