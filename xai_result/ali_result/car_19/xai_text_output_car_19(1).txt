@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|----------------------|---------------------|-------------------|
+| Rear Fender   | Scratches      | 1-2 hours            | $150-$300           | Repair            |
+| Rear Door     | Scratches      | 1-2 hours            | $150-$300           | Repair            |
+
+**Notes**:
+- The image only shows a portion of the car, specifically the rear fender and part of the rear door. Other parts of the car are not visible.
+- `<error>Unable to assess other parts of the car because they are not visible in the image</error>`

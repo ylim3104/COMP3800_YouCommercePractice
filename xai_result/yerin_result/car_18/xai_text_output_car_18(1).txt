@@ -1,0 +1,8 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|-----------------------|---------------------|-------------------|
+| No visible damage detected in the provided image. | | | | |
+
+**Notes**:
+- The image clearly shows the rear of the car, and no visible damage is detected on any part of the rear including the bumper, tail lights, rear window, or rear hatch.

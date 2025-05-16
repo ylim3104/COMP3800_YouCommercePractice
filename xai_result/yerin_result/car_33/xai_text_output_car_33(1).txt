@@ -1,0 +1,10 @@
+Based on the provided image of the car, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Hood          | Paint Fading   | 4-6 hours             | $400-$800           | Repair            |
+| Windshield    | Wipers Misaligned | 1 hour                | $50-$100            | Repair            |
+
+**Notes**:
+- `<error>Unable to assess rear bumper, roof, and sides because they are not visible</error>`
+- The image quality and angle limit the assessment to the front of the car only. Other parts of the car are not visible, and thus cannot be evaluated for damage.

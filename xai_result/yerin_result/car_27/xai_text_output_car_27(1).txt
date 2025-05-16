@@ -1,0 +1,11 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|-------------------|
+| Front Bumper   | Scratch        | 1-2 hours            | $150-$300           | Repair            |
+| Hood           | Minor Scratches | 1-2 hours           | $100-$250           | Repair            |
+
+**Notes**:
+- Rear of the car not visible.
+- Sides of the car not visible.
+- `<error>Unable to assess headlights because the image quality is insufficient to determine if there is any damage beyond the visible scratches</error>`

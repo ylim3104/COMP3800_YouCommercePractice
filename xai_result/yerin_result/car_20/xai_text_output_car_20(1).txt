@@ -1,0 +1,9 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|-------------------|
+| No visible damage detected in the provided image. |  |  |  |  |
+
+**Notes**:
+- The image shows the front and part of the side of the car, but no damage is visible on these parts.
+- Areas not visible: Rear of the car, underside, and roof.

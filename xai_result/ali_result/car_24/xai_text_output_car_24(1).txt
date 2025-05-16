@@ -1,0 +1,12 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Rear Fender   | Dent           | 2-4 hours             | $300-$600           | Repair            |
+| Rear Wheel Arch | Crack       | 1-2 hours             | $200-$400           | Repair            |
+| Rear Quarter Panel | Scratch   | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess front bumper because front of the car is not visible</error>`
+- `<error>Unable to assess roof because top of the car is not visible</error>`
+- `<error>Unable to assess undercarriage because it is not visible</error>`

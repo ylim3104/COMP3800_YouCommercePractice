@@ -1,0 +1,16 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------------|-----------------------|---------------------|--------------------|
+| Front Bumper  | Severe Deformation   | 4-6 hours             | $800-$1200          | Replace            |
+| Hood          | Severe Deformation   | 6-8 hours             | $1000-$1500         | Replace            |
+| Fender        | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace            |
+| Headlight     | Cracked              | 1-2 hours             | $200-$500           | Replace            |
+| Wheel         | Bent Rim             | 2-4 hours             | $400-$800           | Replace            |
+| Front Panel   | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace            |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess side mirrors because they are not clearly visible in the image</error>`
+
+The image primarily shows the front end of the car, which has sustained significant damage. The estimates are based on typical automotive repair standards and 2025 Canadian market rates. Given the extent of the damage, replacement is recommended for most parts to ensure structural integrity and safety.

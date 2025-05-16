@@ -10,12 +10,8 @@ import random
 
 load_dotenv()
 
-XAI_API_KEY = os.getenv("OPENAI_API_KEY")
-BASE_URL = "https://api.x.ai/v1"
-IMAGES_DIR = "images"
 GROK_VISION_MODEL = "grok-2-vision-latest"
 GROK_MODEL = "grok-2-latest"
-grok_client = OpenAI(base_url=BASE_URL, api_key=XAI_API_KEY)
 text_file_prompt = """ Generate a detailed, structured, and human-readable report summarizing the following for the provided car image, formatted as a markdown table:
 Damaged Parts: Identify and list all specific parts of the car that are visibly damaged (e.g., front bumper, headlight, hood, fender). Do not use 'left', 'right', 'driver's side', or 'passenger's side' in labels.
 Type of Damage: Describe the nature of the damage for each part (e.g., dent, crack, scratch, severe deformation).
@@ -91,6 +87,11 @@ The coordinates for the bounding boxes should be normalized relative to the widt
 <error>Unable to detect rear damage because rear of the car is not visible</error>
 """
 
+TXT = '.txt'
+JPEG = '.jpeg'
+
+def get_grok_client(base_url, xai_api_key):
+    return OpenAI(base_url=base_url, api_key=xai_api_key)
 
 
 def base64_encode_image(image_path: str) -> str:
@@ -98,7 +99,13 @@ def base64_encode_image(image_path: str) -> str:
         encoded_string = base64.b64encode(image_file.read()).decode("utf-8")
     return encoded_string
 
-def analyze_image(image_path: str, prompt: str, output_folder: str, base_filename: str):
+def generate_output_name(output_name: str, output_path: str):
+    file_list = [x.split('.')[0] for x in os.listdir()]
+    match_file = [x for x in file_list if x.startswith(output_name)]
+    num_file = len(match_file) + 1
+    return f"{output_path}({num_file})"
+
+def analyze_image(grok_client: OpenAI, image_path: str, prompt: str, output_folder: str, base_filename: str):
     mime_type = get_mime_type(image_path)
     encoded_image = base64_encode_image(image_path)
     messages = [
@@ -122,10 +129,12 @@ def analyze_image(image_path: str, prompt: str, output_folder: str, base_filenam
     )
 
     output = completion.choices[0].message.content
+    text_output_path = f'{output_folder}/grok.txt'
+    # text_output_path = generate_output_name(base_filename, text_output_path) + TXT
 
-    with open(f'{output_folder}/xai_output_{base_filename}.txt', 'w+') as file:
+    with open(text_output_path, 'w+') as file:
         file.write(output)
-    print(output)
+    # print(output)
 
 
 def get_mime_type(image_path):
@@ -143,7 +152,7 @@ class BoundingBoxes(BaseModel):
     boxes: list[BoundingBox]
 
 def generate_bounding_boxes(
-        client: OpenAI,
+        grok_client: OpenAI,
         image_path: str,
         user_query: str,
 ) -> BoundingBoxes:
@@ -167,7 +176,7 @@ def generate_bounding_boxes(
         },
     ]
 
-    completion = client.chat.completions.create(
+    completion = grok_client.chat.completions.create(
         model=GROK_VISION_MODEL, messages=messages
     )
 
@@ -176,7 +185,7 @@ def generate_bounding_boxes(
 
     semi_structured_response = completion.choices[0].message.content
 
-    completion = client.beta.chat.completions.parse(
+    completion = grok_client.beta.chat.completions.parse(
         model=GROK_MODEL,
         messages=[
             {
@@ -208,8 +217,8 @@ def draw_bounding_boxes(
     height, width, _ = image.shape
 
     scale_factor = min(width, height) / 1000
-    box_thickness = max(1, int(1 * scale_factor))
-    label_size = max(0.2, 0.4 * scale_factor)
+    box_thickness = max(2, int(1 * scale_factor))
+    label_size = max(0.5, 0.4 * scale_factor)
     text_thickness = max(1, int(label_size * 1.5))
     padding = max(3, int(5 * scale_factor))
 
@@ -267,9 +276,12 @@ def draw_bounding_boxes(
         )
 
     display(Image(data=cv2.imencode(".jpeg", image)[1].tobytes(), width=600))
-    cv2.imwrite(f"{output_folder}/{base_filename}_boxed.jpeg", image)
+    image_output_path = f"{output_folder}/grok.jpg"
+    # image_output_path = generate_output_name(base_filename, image_output_path) + JPEG
+    cv2.imwrite(image_output_path, image)
 
 def detect_objects(
+    grok_client: OpenAI,
     image_path: str,
     user_prompt: str,
     output_folder: str,
@@ -282,16 +294,33 @@ def detect_objects(
     draw_bounding_boxes(image_path, bounding_boxes, output_folder, base_filename)
 
 
-def generate_xai(image_path: str, output_folder: str):
+def process_image(image_path: str, output_path: str):
+    base_url = "https://api.x.ai/v1"
+    xai_api_key = os.getenv("XAI_API_KEY")
+    grok_client = get_grok_client(base_url, xai_api_key)
+    os.makedirs(f"{output_path}", exist_ok=True)
     Image(image_path, width=600)
     base_filename = os.path.splitext(os.path.basename(image_path))[0]
-    analyze_image(image_path, text_file_prompt, output_folder, base_filename)
+    analyze_image(grok_client, image_path, text_file_prompt, output_path, base_filename)
     detect_objects(
+        grok_client,
         image_path,
         "Detect all the areas of damages in this car image",
-        output_folder,
+        output_path,
         base_filename
     )
 
 def main():
-   pass
+    while True:
+        image_path = input("Enter the image path:")
+        path_exists = os.path.exists(image_path)
+        if path_exists:
+            break
+        else:
+            print("The path does not exist.\n")
+    output_folder = input("Enter the output folder:")
+
+    process_image(image_path, output_folder)
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,8 @@
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|-------------------|
+| Front Bumper   | Crack          | 2-3 hours            | $400-$700           | Replace           |
+| Headlight      | Crack          | 1-2 hours            | $200-$500           | Replace           |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- The image only shows the front right portion of the car, limiting the assessment to visible parts.

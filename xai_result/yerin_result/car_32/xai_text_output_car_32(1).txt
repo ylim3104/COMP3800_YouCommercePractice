@@ -1,0 +1,12 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|-----------------------|---------------------|-------------------|
+| Roof           | Paint Damage   | 1-2 hours             | $100-$200           | Repair            |
+
+**Notes**:
+- Rear of the car not visible.
+- Front, sides, and undercarriage not visible.
+- No other visible damage detected in the provided image.
+
+The image primarily shows the roof of the car with visible paint damage. Other parts of the car are not visible, so a comprehensive assessment is not possible.

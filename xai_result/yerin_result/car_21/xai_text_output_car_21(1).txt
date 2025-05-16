@@ -1,0 +1,10 @@
+Based on the provided image of the car, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|--------------------|
+| Front Door    | Scratches      | 1-2 hours             | $150-$300           | Repair             |
+| Rear Door     | Scratches      | 1-2 hours             | $150-$300           | Repair             |
+
+**Notes**:
+- The image shows only the side of the car, specifically the front and rear doors. Other parts of the car such as the front, rear, roof, and undercarriage are not visible.
+- `<error>Unable to assess front bumper, headlight, hood, fender, rear bumper, and other parts because they are not visible in the image</error>`

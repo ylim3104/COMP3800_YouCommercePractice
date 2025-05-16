@@ -1,0 +1,9 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Rear Bumper   | Severe Deformation | 4-6 hours             | $800-$1200          | Replace           |
+
+**Notes**:
+- No other parts are visibly damaged in the provided image.
+- The image only shows the rear of the car, so other areas (front, sides, roof, etc.) cannot be assessed.

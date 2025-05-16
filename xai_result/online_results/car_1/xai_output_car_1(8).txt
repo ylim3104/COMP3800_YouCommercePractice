@@ -1,0 +1,16 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts    | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------------|-----------------------|---------------------|-------------------|
+| Front Bumper     | Severe Deformation   | 4-6 hours             | $800-$1200          | Replace           |
+| Hood             | Severe Deformation   | 6-8 hours             | $1000-$1500         | Replace           |
+| Fender           | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace           |
+| Headlight        | Broken                | 1-2 hours             | $200-$500           | Replace           |
+| Grille           | Missing/Broken       | 1-2 hours             | $200-$400           | Replace           |
+| Front Wheel      | Possible Damage      | 2-4 hours             | $300-$600           | Assess and Repair/Replace |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess undercarriage because it is not visible in the image</error>`
+
+This assessment is based on the visible damage in the provided image. The estimates are grounded in typical repair practices and market rates for Canada in 2025.

@@ -1,0 +1,13 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage        | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|-----------------------|-----------------------|---------------------|-------------------|
+| Front Bumper  | Severe Deformation    | 4-6 hours             | $600-$1200          | Replace           |
+| Hood          | Scratch, Deformation  | 3-5 hours             | $400-$800           | Repair            |
+| Headlight     | Cracked                | 1-2 hours             | $200-$500           | Replace           |
+| Fender        | Deformation           | 3-4 hours             | $300-$700           | Repair            |
+| Radiator      | Misalignment          | 2-3 hours             | $250-$600           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess side mirrors because they are not visible in the image</error>`

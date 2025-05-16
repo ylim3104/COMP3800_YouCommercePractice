@@ -1,0 +1,12 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|-----------------------|---------------------|--------------------|
+| Rear Quarter Panel | Scratches | 1-2 hours | $100-$200 | Repair |
+| Rear Door | Scratches | 1-2 hours | $100-$200 | Repair |
+| Rear Fender | Scratches | 1-2 hours | $100-$200 | Repair |
+| Fuel Door | Scratches | 0.5-1 hour | $50-$100 | Repair |
+
+**Notes**:
+- The image only shows the rear side of the car. Other parts of the car (front, roof, undercarriage) are not visible.
+- `<error>Unable to assess front bumper, headlights, hood, and other parts because they are not visible in the image</error>`

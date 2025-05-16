@@ -1,0 +1,8 @@
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Door          | Dent           | 2-4 hours             | $300-$600           | Repair            |
+| Door          | Scratches      | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- Rear of the car not visible
+- <error>Unable to assess other parts of the car because only a portion is visible</error>

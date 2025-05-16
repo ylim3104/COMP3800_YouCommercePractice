@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|----------------------|---------------------|-------------------|
+| Front Bumper  | Scratch, Dent  | 2-3 hours            | $300-$600           | Repair            |
+| Fender        | Dent           | 2-4 hours            | $400-$700           | Repair            |
+
+**Notes**:
+
+- `<error>Unable to assess other parts of the car because only the front right section is visible</error>`

@@ -1,0 +1,14 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts    | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------------|-----------------------|---------------------|-------------------|
+| Rear Quarter Panel | Severe Deformation   | 6-8 hours             | $800-$1200          | Replace           |
+| Rear Bumper      | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace           |
+| Rear Fender      | Severe Deformation   | 5-7 hours             | $700-$1100          | Replace           |
+| Tail Light       | Cracked              | 1-2 hours             | $200-$400           | Replace           |
+| Rear Panel       | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace           |
+| Exhaust Pipe     | Misalignment         | 2-3 hours             | $300-$500           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess front of the car because it is not visible</error>`
+- `<error>Unable to assess interior because the image does not show the interior</error>`

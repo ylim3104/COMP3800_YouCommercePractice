@@ -1,0 +1,12 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Hood          | Scratches      | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- Rear of the car not visible.
+- Sides of the car not visible.
+- No visible damage detected on the front bumper, headlights, or windshield in the provided image.
+
+Given the image's perspective, only the hood shows visible damage in the form of scratches. Other parts of the car that are not visible or do not show damage in the image have not been assessed.

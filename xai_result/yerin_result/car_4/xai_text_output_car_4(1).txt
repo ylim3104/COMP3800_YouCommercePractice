@@ -1,0 +1,8 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| No visible damage detected in the provided image. | | | | |
+
+**Notes**:
+- The image only shows the rear side window and part of the truck bed. Other parts of the car are not visible for assessment.

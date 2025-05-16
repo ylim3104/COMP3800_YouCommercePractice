@@ -1,0 +1,10 @@
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Rear Door     | Dent           | 2-4 hours             | $300-$600           | Repair            |
+| Rear Door     | Scratch        | 1-2 hours             | $100-$200           | Repair            |
+| Rear Door     | Hole           | 2-4 hours             | $200-$400           | Repair            |
+| Rear Bumper   | Deformation    | 2-4 hours             | $300-$600           | Replace           |
+
+**Notes**:
+- The image primarily shows the rear door and part of the rear bumper. Other areas of the car are not visible, so a comprehensive assessment is not possible.
+- `<error>Unable to assess other parts of the car because they are not visible in the image</error>`

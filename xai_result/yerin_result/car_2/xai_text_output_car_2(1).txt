@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts    | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------|-----------------------|---------------------|-------------------|
+| Side Mirror      | Wiring Exposed | 1-2 hours             | $100-$200           | Repair            |
+
+**Notes**:
+- The image primarily shows the side of the car, specifically around the side mirror area. No other parts of the car are visible in the image.
+- The exposed wiring near the side mirror suggests some form of electrical or mirror housing damage, which can be repaired by re-securing or replacing the wiring.
+- `<error>Unable to assess other parts of the car because they are not visible in the image</error>`

@@ -1,0 +1,11 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|----------------------|---------------------|-------------------|
+| Rear Door     | Scratch        | 1-2 hours            | $150-$300           | Repair            |
+| Rear Door     | Dent           | 2-4 hours            | $300-$600           | Repair            |
+
+**Notes**:
+
+- The image only shows a portion of the car, specifically the rear door area. Other parts of the car are not visible.
+- `<error>Unable to assess other parts of the car because they are not visible in the provided image</error>`

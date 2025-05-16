@@ -1,0 +1,11 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|--------------------|
+| Front Fender   | Dent           | 2-4 hours            | $300-$600           | Repair             |
+| Front Bumper   | Scratch        | 1-2 hours            | $150-$300           | Repair             |
+
+**Notes**:
+- The image primarily shows the front right side of the car. Other parts of the car are not visible and thus not assessed.
+- The damage on the front fender is a noticeable dent, which can typically be repaired rather than replaced due to cost-effectiveness.
+- The front bumper has minor scratches which are best addressed by repair.

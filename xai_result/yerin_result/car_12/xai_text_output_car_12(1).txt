@@ -1,0 +1,17 @@
+Based on the provided image, here is the structured report in markdown format:
+
+```markdown
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|-------------------|
+| Front Bumper   | Dent           | 2-4 hours            | $300-$600           | Repair            |
+| Hood           | Dent           | 2-4 hours            | $300-$600           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess other parts because only the front bumper and hood are visible</error>`
+```
+
+**Explanation**:
+- **Front Bumper**: The image clearly shows a significant dent on the front bumper. Repairing such a dent typically takes 2-4 hours and costs between $300-$600 CAD in 2025.
+- **Hood**: There is a noticeable dent on the hood. Similar to the bumper, repairing this would take 2-4 hours and cost between $300-$600 CAD.
+
+Since the image only shows the front bumper and part of the hood, other parts of the car cannot be assessed.

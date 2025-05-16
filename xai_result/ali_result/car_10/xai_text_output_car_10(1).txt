@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Door          | Scratch        | 1-2 hours             | $100-$200           | Repair            |
+| Rear Quarter Panel | Scratch   | 1-2 hours             | $100-$200           | Repair            |
+
+**Notes**:
+- The image primarily shows the side of the vehicle, and no other significant damage is visible.
+- `<error>Unable to assess front bumper, hood, fenders, headlights, and other parts because they are not visible in the image</error>`

@@ -1,0 +1,9 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts    | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------|-----------------------|---------------------|-------------------|
+| Front Fender      | Dent           | 2-4 hours             | $300-$600           | Repair            |
+
+**Notes**:
+- Rear of the car not visible.
+- No visible damage detected in other parts of the car shown in the provided image.

@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|----------------------|---------------------|-------------------|
+| Rear Quarter Panel | Scratch, Minor Dent | 1-2 hours | $150-$300 | Repair |
+| Rear Wheel Arch | Scratch | 1 hour | $100-$200 | Repair |
+
+**Notes**:
+- The image only shows a portion of the car, specifically the rear quarter panel and part of the rear wheel arch. Other parts of the car are not visible.
+- `<error>Unable to assess front bumper, headlights, hood, fenders, and other parts because they are not visible in the image</error>`

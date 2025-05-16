@@ -1,0 +1,13 @@
+Based on the provided image of the car, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Front Door    | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+| Rear Door     | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+| Rear Quarter Panel | Scratch | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess the front bumper, hood, and fenders because they are not visible in the image</error>`
+- `<error>Unable to assess the roof, undercarriage, and interior because they are not visible in the image</error>`
+
+No visible damage was detected on the parts of the car that are visible in the image other than the scratches mentioned above.

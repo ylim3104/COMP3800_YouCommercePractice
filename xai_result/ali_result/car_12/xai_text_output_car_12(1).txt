@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Front Fender  | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+| Front Door    | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- The image only shows the front left side of the car. Other parts of the car are not visible.
+- `<error>Unable to assess other parts of the car because they are not visible in the image</error>`

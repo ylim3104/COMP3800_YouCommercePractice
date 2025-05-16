@@ -1,0 +1,23 @@
+```markdown
+| Damaged Parts | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------------|-----------------------|---------------------|-------------------|
+| Front Bumper  | Severe Deformation   | 4-6 hours             | $800-$1200          | Replace           |
+| Headlight     | Broken               | 1-2 hours             | $200-$500           | Replace           |
+| Hood          | Severe Deformation   | 6-8 hours             | $1000-$1500         | Replace           |
+| Fender        | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace           |
+| Radiator      | Possible Damage      | 2-4 hours             | $300-$700           | Replace           |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess undercarriage because it is not visible</error>`
+```
+
+**Explanation**:
+
+- **Front Bumper**: The front bumper is severely deformed, indicating a high-impact collision. Replacement is recommended due to the extent of the damage.
+- **Headlight**: The headlight is broken, which typically requires replacement for safety and functionality.
+- **Hood**: The hood is severely deformed, which usually necessitates replacement due to structural integrity concerns.
+- **Fender**: The fender shows severe deformation, which is best addressed by replacement.
+- **Radiator**: There is a possibility of damage due to the front-end collision. Inspection and likely replacement are recommended.
+
+The estimates are based on typical repair times and costs in the 2025 Canadian automotive repair market, considering the extent of damage visible in the image.

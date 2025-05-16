@@ -1,0 +1,12 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts    | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------|-----------------------|---------------------|-------------------|
+| Front Fender     | Dent           | 2-4 hours             | $300-$600           | Repair            |
+| Front Door       | Dent           | 2-4 hours             | $300-$600           | Repair            |
+| Front Quarter Panel | Dent        | 2-4 hours             | $300-$600           | Repair            |
+| Wheel Well       | Dent           | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess other parts because only the front section of the car is visible</error>`
+- The image shows significant denting on the front fender, front door, front quarter panel, and wheel well. The rest of the car's condition cannot be assessed from this image.

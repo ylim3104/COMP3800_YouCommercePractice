@@ -1,0 +1,14 @@
+Based on the provided image of the car, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|-----------------------|---------------------|--------------------|
+| Front Bumper   | Dent           | 2-4 hours             | $300-$600           | Repair             |
+| Hood           | Dent           | 2-4 hours             | $300-$600           | Repair             |
+| Front Fender   | Scratch        | 1-2 hours             | $150-$300           | Repair             |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess roof because it is not visible in the image</error>`
+- `<error>Unable to assess rear lights because rear of the car is not visible</error>`
+
+The image provided shows the front left side of the car, and the visible damages have been assessed accordingly. The estimates are based on typical automotive repair standards and 2025 Canadian market rates.

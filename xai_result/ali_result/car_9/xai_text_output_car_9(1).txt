@@ -1,0 +1,16 @@
+Based on the provided image, here is a detailed, structured, and human-readable report summarizing the damage to the car:
+
+| Damaged Parts | Type of Damage         | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|-------------------------|-----------------------|----------------------|--------------------|
+| Front Bumper   | Severe Deformation      | 4-6 hours             | $800-$1200           | Replace            |
+| Hood           | Severe Deformation, Crack| 6-8 hours             | $1000-$1500          | Replace            |
+| Headlight      | Crack, Deformation      | 2-4 hours             | $400-$600            | Replace            |
+| Fender         | Dent, Deformation       | 3-5 hours             | $600-$900            | Replace            |
+| Grille         | Severe Deformation      | 2-3 hours             | $300-$500            | Replace            |
+| Radiator Support| Severe Deformation    | 8-10 hours            | $1200-$1800          | Replace            |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess windshield because the image quality is insufficient to determine the extent of damage</error>`
+
+This assessment is based on visible damage from the provided image. The estimates for repair time and cost are grounded in typical automotive repair practices and market rates for Canada in 2025.

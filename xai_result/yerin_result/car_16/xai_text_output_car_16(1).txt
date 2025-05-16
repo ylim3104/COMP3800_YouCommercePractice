@@ -1,0 +1,9 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Front Fender   | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- No other visible damage detected in the provided image.
+- `<error>Unable to assess rear bumper, roof, and other sides because they are not visible in the image</error>`

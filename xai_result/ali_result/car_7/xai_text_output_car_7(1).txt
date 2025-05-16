@@ -1,0 +1,9 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|-----------------------|---------------------|-------------------|
+| Rear Tailgate  | Dent           | 2-3 hours             | $250-$400           | Repair            |
+
+**Notes**:
+- No other visible damage detected in the provided image.
+- The image shows only the rear part of the vehicle; other areas are not visible for assessment.

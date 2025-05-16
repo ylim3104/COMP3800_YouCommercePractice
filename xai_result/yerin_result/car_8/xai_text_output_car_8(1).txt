@@ -1,0 +1,9 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|----------------------|---------------------|-------------------|
+| Front Fender   | Scratch, Dent  | 2-3 hours            | $200-$400           | Repair            |
+
+**Notes**:
+- The image only shows a portion of the front fender, and other parts of the car are not visible. Therefore, assessment is limited to the visible area.
+- `<error>Unable to assess other parts of the car because they are not visible in the image</error>`

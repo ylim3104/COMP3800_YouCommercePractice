@@ -1,0 +1,10 @@
+Based on the provided image of the car, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|--------------------|
+| Rear Door      | Dent           | 2-3 hours            | $300-$500           | Repair             |
+
+**Notes**:
+- The image shows only the side of the car. Other areas such as the front, rear, and roof are not visible.
+- `<error>Unable to assess front bumper, hood, fender, and rear bumper because these parts are not visible in the image</error>`
+- `<error>Unable to assess headlights, taillights, and windows because these parts are not visible in the image</error>`

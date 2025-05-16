@@ -1,0 +1,8 @@
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Front Door    | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+| Rear Door     | Scratch        | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- No visible damage detected in the provided image other than minor scratches on the front and rear doors.
+- `<error>Unable to assess roof, hood, fenders, bumpers, and undercarriage because they are not visible in the image</error>`

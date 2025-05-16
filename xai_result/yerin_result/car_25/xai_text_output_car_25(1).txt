@@ -1,0 +1,9 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| No visible damage detected in the provided image. | | | | |
+
+**Notes**:
+- The image shows the side of the car, but no visible damage is detected.
+- Areas not visible: front, rear, roof, and undercarriage of the car.

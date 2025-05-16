@@ -1,0 +1,22 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage      | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|---------------------|-----------------------|---------------------|-------------------|
+| Hood          | Severe Deformation  | 4-6 hours             | $800-$1200          | Replace           |
+| Windshield    | Crack               | 1-2 hours             | $200-$400           | Replace           |
+| Front Bumper  | Scratch             | 1-2 hours             | $150-$300           | Repair            |
+| Headlight     | Missing/Damaged     | 1-2 hours             | $300-$600           | Replace           |
+| Fender        | Dent                | 2-4 hours             | $400-$700           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess side mirrors because they are not visible</error>`
+
+**Additional Observations**:
+- The image shows significant damage to the front of the car, particularly the hood which appears to be severely deformed.
+- The windshield has a visible crack, indicating the need for replacement.
+- The front bumper has scratches, which can be repaired.
+- The headlight is missing or severely damaged, requiring replacement.
+- The fender has a dent, which can be repaired.
+
+The estimates are based on typical automotive repair standards and 2025 Canadian market rates. The recommendations consider the extent of damage and cost-effectiveness.

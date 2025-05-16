@@ -1,0 +1,10 @@
+Based on the provided image, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Sliding Door  | Scratch        | 1-2 hours             | $100-$200           | Repair            |
+| Sliding Door  | Dent           | 1-2 hours             | $150-$300           | Repair            |
+
+**Notes**:
+- The image only shows the side of the van, specifically the sliding door area. Other parts of the vehicle are not visible.
+- `<error>Unable to assess other parts of the vehicle because they are not visible in the image</error>`

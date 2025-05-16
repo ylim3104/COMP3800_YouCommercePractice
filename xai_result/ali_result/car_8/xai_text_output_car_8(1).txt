@@ -1,0 +1,15 @@
+Based on the provided image of the car, here is the detailed, structured, and human-readable report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Rear Bumper   | Dent           | 2-3 hours             | $250-$400           | Repair            |
+| Rear Door     | Dent           | 2-3 hours             | $200-$350           | Repair            |
+| Rear Quarter Panel | Rust Spot   | 1-2 hours             | $100-$200           | Repair            |
+
+**Notes**:
+- The image shows only the rear side of the vehicle. Other parts of the car (front, sides, top) are not visible and thus cannot be assessed for damage.
+- `<error>Unable to assess front bumper because front of the car is not visible</error>`
+- `<error>Unable to assess headlights because front of the car is not visible</error>`
+- `<error>Unable to assess hood because front of the car is not visible</error>`
+- `<error>Unable to assess roof because top of the car is not visible</error>`
+- The estimates provided are based on typical automotive repair standards and 2025 Canadian market rates. The actual cost and time may vary depending on the extent of damage and specific repair shop rates.

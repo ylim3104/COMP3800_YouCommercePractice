@@ -1,0 +1,10 @@
+Based on the provided image, no visible damage is detected on the visible parts of the car.
+
+```markdown
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| No visible damage detected in the provided image. | | | | |
+```
+
+**Notes**:
+- `<error>Unable to assess front bumper, hood, headlights, fenders, rear bumper, and tail lights because these parts are not visible in the image</error>`

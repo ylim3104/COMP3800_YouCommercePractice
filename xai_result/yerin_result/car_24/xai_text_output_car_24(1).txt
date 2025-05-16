@@ -1,0 +1,12 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|--------------------|
+| Front Bumper  | Scratches      | 1-2 hours             | $150-$300           | Repair             |
+| Hood          | Scratches      | 1-2 hours             | $150-$300           | Repair             |
+| Fender        | Scratches      | 1-2 hours             | $150-$300           | Repair             |
+
+**Notes**:
+- The image shows the front of the car, but the rear and sides are not visible.
+- No dents or cracks are visible in the provided image, only scratches.
+- The estimates are based on typical repair practices and market rates for Canada in 2025.

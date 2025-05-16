@@ -1,0 +1,11 @@
+Based on the provided image, here is the structured report:
+
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------|-----------------------|---------------------|-------------------|
+| Rear Window   | Crack          | 1-2 hours             | $200-$400           | Replace           |
+| Trunk Lid     | Scratch        | 1-2 hours             | $100-$200           | Repair            |
+
+**Notes**:
+- `<error>Unable to assess front, sides, and undercarriage of the car because they are not visible in the image</error>`
+- The crack on the rear window suggests replacement due to the potential for further damage or safety issues.
+- The scratches on the trunk lid are minor and can be effectively repaired.

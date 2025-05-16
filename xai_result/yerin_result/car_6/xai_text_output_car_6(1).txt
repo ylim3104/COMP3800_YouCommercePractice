@@ -1,0 +1,11 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------------|-----------------------|---------------------|--------------------|
+| Hood           | Crack, Scratch       | 2-4 hours             | $300-$600           | Repair             |
+| Headlight      | Crack, Discoloration | 1-2 hours             | $200-$500           | Replace            |
+| Fender         | Scratch, Dent        | 2-3 hours             | $250-$500           | Repair             |
+
+**Notes**:
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess windshield because it is not fully visible</error>`

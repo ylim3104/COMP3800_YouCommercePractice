@@ -1,0 +1,7 @@
+| Damaged Parts | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|----------------|----------------|----------------------|---------------------|--------------------|
+| Front Bumper   | Crack, Scratch | 2-3 hours            | $300-$500           | Replace            |
+
+**Notes**:
+- The image only shows the front lower part of the car, specifically the front bumper. Other parts of the car are not visible.
+- The damage to the front bumper includes a significant crack and scratches, which suggests replacement is more cost-effective than repair due to the extent of the damage.

@@ -1,0 +1,25 @@
+Based on the provided image, here is the structured report in markdown format:
+
+```markdown
+| Damaged Parts    | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------------|-----------------------|---------------------|-------------------|
+| Front Bumper     | Severe Deformation   | 4-6 hours             | $800-$1200          | Replace           |
+| Hood             | Severe Deformation   | 6-8 hours             | $1000-$1500         | Replace           |
+| Headlight        | Cracked/Broken       | 1-2 hours             | $200-$500           | Replace           |
+| Fender           | Severe Deformation   | 4-6 hours             | $600-$1000          | Replace           |
+| Grille           | Cracked/Broken       | 1-2 hours             | $150-$300           | Replace           |
+| Radiator Support | Bent/Deformed        | 4-6 hours             | $500-$800           | Replace           |
+
+**Notes**:
+- `<error>Unable to assess rear of the car because it is not visible</error>`
+```
+
+### Analysis:
+- **Front Bumper**: The bumper is severely deformed, suggesting a high-impact collision. Replacement is more cost-effective due to the extent of damage.
+- **Hood**: The hood shows significant deformation, indicating it cannot be repaired effectively. Replacement is necessary.
+- **Headlight**: The headlight is visibly broken, requiring replacement.
+- **Fender**: The fender is also severely deformed, making replacement the best option.
+- **Grille**: The grille is cracked and broken, which is typically replaced rather than repaired.
+- **Radiator Support**: The deformation of the front end suggests the radiator support is bent, which would need to be replaced to ensure structural integrity.
+
+The rear of the car is not visible in the image, so no assessment could be made regarding any potential damage there.

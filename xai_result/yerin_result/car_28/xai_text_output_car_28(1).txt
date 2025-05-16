@@ -1,0 +1,10 @@
+Based on the provided image, no visible damage can be detected on the visible parts of the car. Here is the structured report:
+
+| Damaged Parts    | Type of Damage | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|------------------|----------------|-----------------------|---------------------|-------------------|
+| No visible damage detected in the provided image. | | | | |
+
+**Notes**:
+- `<error>Unable to assess front bumper because front of the car is not visible</error>`
+- `<error>Unable to assess rear bumper because rear of the car is not visible</error>`
+- `<error>Unable to assess roof because top of the car is not visible</error>`

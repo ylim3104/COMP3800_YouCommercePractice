@@ -1,0 +1,9 @@
+Based on the provided image, here is the detailed report:
+
+| Damaged Parts | Type of Damage       | Estimated Repair Time | Estimated Cost (CAD) | Recommended Action |
+|---------------|----------------------|-----------------------|---------------------|-------------------|
+| Front Bumper  | Crack, Deformation   | 3-5 hours             | $500-$800           | Replace           |
+| Headlight     | Crack                | 1-2 hours             | $200-$500           | Replace           |
+
+**Notes**:
+- `<error>Unable to assess other parts of the car because only the front right section is visible</error>`
